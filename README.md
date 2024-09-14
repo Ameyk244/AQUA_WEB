@@ -1,0 +1,2 @@
+Aqua-web is a real-time data display platform designed to simultaneously present sensor readings for chlorine, bacterial, and silver concentrations. The website integrates multiple sensor inputs and provides a cohesive view of all three parameters at once, offering a streamlined way to monitor environmental conditions. It is built with a focus on intuitive data visualization and real-time updates, making it ideal for tracking water quality and related metrics  
+https://ak-1-1.onrender.com/
